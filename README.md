@@ -1,16 +1,69 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Ahmet Yılmaz</h1>
 
-<!--
-**Ahmet819/Ahmet819** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+Artificial Intelligence • Data Science • Machine Learning
+</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Artificial+Intelligence;Data+Science;Machine+Learning;Kaggle+Competitor;Always+Learning+New+Things" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+# 👨‍💻 About Me
+
+🎓 Mathematics Student at **Hacettepe University**
+
+🎓 Economics Student at **Anadolu University**
+
+I am passionate about **Artificial Intelligence**, **Data Science**, and **Machine Learning**. I enjoy solving real-world problems, participating in Kaggle competitions, and continuously improving my skills by building practical projects.
+
+---
+
+# 🚀 What I'm Currently Doing
+
+- 🤖 Learning Artificial Intelligence
+- 📊 Studying Data Science & Machine Learning
+- 🏆 Participating in Kaggle Competitions
+- 📚 Building practical software projects
+- 🎮 Developing mobile games under **Benova Games**
+
+---
+
+# 🎯 Goals
+
+- Become an AI Engineer
+- Earn Kaggle Competition Medals
+- Publish successful mobile games
+- Build AI-powered software
+- Contribute to Open Source
+
+---
+
+# 📈 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=Ahmet819&show_icons=true&theme=tokyonight&hide_border=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmet819&layout=compact&theme=tokyonight&hide_border=true)
+
+---
+
+# 🏢 Benova Games
+
+🚀 Founder of **Benova Games**
+
+Currently developing mobile games that will be published on **Google Play**.
+
+---
+
+# 📫 Contact
+
+<p align="left">
+<a href="https://github.com/Ahmet819">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+</p>
+
+---
+
+⭐ *Learning, Building, Improving.*
