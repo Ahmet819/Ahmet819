@@ -63,7 +63,7 @@ Currently developing mobile games that will be published on **Google Play**.
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
   
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/ahmetyilmaz2579)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ahmet819)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmet-y%C4%B1lmaz-a33978335)
 </a>
 </p>
 
